@@ -595,7 +595,6 @@ Title | Acceptance | Difficulty | Frequency
 # Amazon
 Title | Acceptance | Difficulty | Frequency
 ---- | --- | --- | ---
-
 675|Cut Off Trees for Golf Event|26.6%|Hard|
 1|Two Sum|36.1%|Easy|
 20|Valid Parentheses|33.7%|Easy|

@@ -21,124 +21,112 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 -[Amazon](#amazon)  
 -[Linkedin](#linkedin)
 
-# Facebook 
-Title | Acceptance | Difficulty | Frequency
----- | --- | --- | ---
-283|Move Zeroes|50.7%|Easy|
-301|Remove Invalid Parentheses|35.5%|Hard|
-273|Integer to English Words|22.4%|Hard|
-621|Task Scheduler|42.2%|Medium|
-67|Add Binary|33.2%|Easy|
-689|Maximum Sum of 3 Non-Overlapping Subarrays|41.3%|Hard|
-325|Maximum Size Subarray Sum Equals k |43.0%|Medium|
-253|Meeting Rooms II |39.3%|Medium|
-17|Letter Combinations of a Phone Number|35.4%|Medium|
-91|Decode Ways|20.0%|Medium|
-311|Sparse Matrix Multiplication |51.8%|Medium|
-314|Binary Tree Vertical Order Traversal |37.3%|Medium|
-297|Serialize and Deserialize Binary Tree|34.0%|Hard|
-10|Regular Expression Matching|24.3%|Hard|
-15|3Sum|21.8%|Medium|
-158|Read N Characters Given Read4 II - Call multiple times |24.5%|Hard|
-277|Find the Celebrity |35.6%|Medium|
-278|First Bad Version|25.8%|Easy|
-200|Number of Islands|35.6%|Medium|
-76|Minimum Window Substring|26.1%|Hard|
-257|Binary Tree Paths|39.7%|Easy|
-543|Diameter of Binary Tree|44.7%|Easy|
-157|Read N Characters Given Read4 |29.2%|Easy|
-282|Expression Add Operators|30.2%|Hard|
-23|Merge k Sorted Lists|27.7%|Hard|
-173|Binary Search Tree Iterator|42.4%|Medium|
-121|Best Time to Buy and Sell Stock|42.1%|Easy|
-211|Add and Search Word - Data structure design|24.1%|Medium|
-56|Merge Intervals|31.0%|Medium|
-1|Two Sum|36.1%|Easy|
-125|Valid Palindrome|26.6%|Easy|
-161|One Edit Distance |31.6%|Medium|
-597|Friend Requests I: Overall Acceptance Rate |37.3%|Easy|
-252|Meeting Rooms |48.3%|Easy|
-341|Flatten Nested List Iterator|42.2%|Medium|
-285|Inorder Successor in BST |36.3%|Medium|
-98|Validate Binary Search Tree|23.8%|Medium|
-43|Multiply Strings|27.6%|Medium|
-78|Subsets|42.5%|Medium|
-602|Friend Requests II: Who Has the Most Friends |41.3%|Medium|
-139|Word Break|30.8%|Medium|
-670|Maximum Swap|38.3%|Medium|
-57|Insert Interval|28.3%|Hard|
-215|Kth Largest Element in an Array|39.9%|Medium|
-75|Sort Colors|38.4%|Medium|
-133|Clone Graph|25.1%|Medium|
-680|Valid Palindrome II|32.2%|Easy|
-33|Search in Rotated Sorted Array|32.0%|Medium|
-238|Product of Array Except Self|49.8%|Medium|
-636|Exclusive Time of Functions|43.9%|Medium|
-88|Merge Sorted Array|32.1%|Easy|
-206|Reverse Linked List|46.1%|Easy|
-79|Word Search|27.4%|Medium|
-13|Roman to Integer|46.8%|Easy|
-236|Lowest Common Ancestor of a Binary Tree|30.0%|Medium|
-146|LRU Cache|18.7%|Hard|
-494|Target Sum|43.6%|Medium|
-523|Continuous Subarray Sum|23.2%|Medium|
-477|Total Hamming Distance|47.7%|Medium|
-642|Design Search Autocomplete System |30.7%|Hard|
-38|Count and Say|35.7%|Easy|
-554|Brick Wall|46.1%|Medium|
-398|Random Pick Index|43.9%|Medium|
-218|The Skyline Problem|28.2%|Hard|
-49|Group Anagrams|36.4%|Medium|
-286|Walls and Gates |44.8%|Medium|
-209|Minimum Size Subarray Sum|31.4%|Medium|
-208|Implement Trie (Prefix Tree)|29.5%|Medium|
-102|Binary Tree Level Order Traversal|41.0%|Medium|
-71|Simplify Path|25.8%|Medium|
-20|Valid Parentheses|33.7%|Easy|
-28|Implement strStr()|28.6%|Easy|
-90|Subsets II|37.2%|Medium|
-128|Longest Consecutive Sequence|37.5%|Hard|
-127|Word Ladder|19.7%|Medium|
-377|Combination Sum IV|42.4%|Medium|
-380|Insert Delete GetRandom O(1)|39.4%|Medium|
-44|Wildcard Matching|20.6%|Hard|
-334|Increasing Triplet Subsequence|39.8%|Medium|
-269|Alien Dictionary |25.2%|Hard|
-639|Decode Ways II|24.3%|Hard|
-461|Hamming Distance|69.8%|Easy|
-235|Lowest Common Ancestor of a Binary Search Tree|39.5%|Easy|
-674|Longest Continuous Increasing Subsequence|42.9%|Easy|
-647|Palindromic Substrings|55.7%|Medium|
-117|Populating Next Right Pointers in Each Node II|33.8%|Medium|
-50|Pow(x, n)|26.0%|Medium|
-85|Maximal Rectangle|28.8%|Hard|
-69|Sqrt(x)|28.2%|Easy|
-68|Text Justification|19.6%|Hard|
-210|Course Schedule II|29.1%|Medium|
-26|Remove Duplicates from Sorted Array|35.5%|Easy|
-221|Maximal Square|29.6%|Medium|
-274|H-Index|33.5%|Medium|
-404|Sum of Left Leaves|47.3%|Easy|
-25|Reverse Nodes in k-Group|31.1%|Hard|
-234|Palindrome Linked List|33.1%|Easy|
-168|Excel Sheet Column Title|26.7%|Easy|
-261|Graph Valid Tree |38.1%|Medium|
-410|Split Array Largest Sum|38.6%|Hard|
-525|Contiguous Array|40.9%|Medium|
-535|Encode and Decode TinyURL|74.2%|Medium|
-572|Subtree of Another Tree|40.6%|Easy|
-265|Paint House II |38.1%|Hard|
-714|Best Time to Buy and Sell Stock with Transaction Fee|39.4%|Medium|
-578|Get Highest Answer Rate Question |28.1%|Medium|
-637|Average of Levels in Binary Tree|55.6%|Easy|
-721|Accounts Merge|27.4%|Medium|
-653|Two Sum IV - Input is a BST|50.4%|Easy|
-673|Number of Longest Increasing Subsequence|31.2%|Medium|
-80|Remove Duplicates from Sorted Array II|36.4%|Medium|
-275|H-Index II|34.7%|Medium|
+# Facebook
+|# | Title |
+---- | --- |
+621	| Task Scheduler
+56  | Merge Intervals
+350	| Intersection of Two Arrays II
+15	| 3Sum
+10	| Regular Expression Matching
+674	| Longest Continuous Increasing Subsequence
+121	| Best Time to Buy and Sell Stock
+314	| Binary Tree Vertical Order Traversal
+69	| Sqrt(x)
+257	| Binary Tree Paths
+51	| N-Queens
+42	| Trapping Rain Water
+173	| Binary Search Tree Iterator
+151	| Reverse Words in a String
+43	| Multiply Strings
+38	| Count and Say
+273	| Integer to English Words
+91	| Decode Ways
+138	| Copy List with Random Pointer
+283	| Move Zeroes
+236	| Lowest Common Ancestor of a Binary Tree
+253	| Meeting Rooms II
+449	| Serialize and Deserialize BST
+133	| Clone Graph
+49	| Group Anagrams
+31	| Next Permutation
+339	| Nested List Weight Sum
+29	| Divide Two Integers
+114	| Flatten Binary Tree to Linked List
+301	| Remove Invalid Parentheses
+1	| Two Sum
+98	| Validate Binary Search Tree
+88	| Merge Sorted Array
+242	| Valid Anagram
+642	| Design Search Autocomplete System
+139	| Word Break
+560	| Subarray Sum Equals K
+212	| Word Search II
+297	| Serialize and Deserialize Binary Tree
+102	| Binary Tree Level Order Traversal
+325	| Maximum Size Subarray Sum Equals k
+378	| Kth Smallest Element in a Sorted Matrix
+348	| Design Tic-Tac-Toe
+4	| Median of Two Sorted Arrays
+278	| First Bad Version
+76	| Minimum Window Substring
+65	| Valid Number
+32	| Longest Valid Parentheses
+8	| String to Integer (atoi)
+215	| Kth Largest Element in an Array
+772	| Basic Calculator III
+17	| Letter Combinations of a Phone Number
+567	| Permutation in String
+5	| Longest Palindromic Substring
+636	| Exclusive Time of Functions
+349	| Intersection of Two Arrays
+295	| Find Median from Data Stream
+13	| Roman to Integer
+380	| Insert Delete GetRandom O(1)
+277	| Find the Celebrity
+282	| Expression Add Operators
+122	| Best Time to Buy and Sell Stock II
+341	| Flatten Nested List Iterator
+285	| Inorder Successor in BST
+44	| Wildcard Matching
+20	| Valid Parentheses
+270	| Closest Binary Search Tree Value
+57	| Insert Interval
+67	| Add Binary
+680	| Valid Palindrome II
+200	| Number of Islands
+3	| Longest Substring Without Repeating Characters
+146 | 	LRU Cache
+158	| Read N Characters Given Read4 II - Call multiple times
+125	| Valid Palindrome
+157	| Read N Characters Given Read4
+127	| Word Ladder
+211	| Add and Search Word - Data structure design
+34	| Find First and Last Position of Element in Sorted Array
+477	| Total Hamming Distance
+111	| Minimum Depth of Binary Tree
+23	| Merge k Sorted Lists
+37	| Sudoku Solver
+336	| Palindrome Pairs
+249	| Group Shifted Strings
+694	| Number of Distinct Islands
+124	| Binary Tree Maximum Path Sum
+543	| Diameter of Binary Tree
+22	| Generate Parentheses
+468	| Validate IP Address
+105	| Construct Binary Tree from Preorder and Inorder Traversal
+235	| Lowest Common Ancestor of a Binary Search Tree
+206	| Reverse Linked List
+438	| Find All Anagrams in a String
+317	| Shortest Distance from All Buildings
+9	| Palindrome Number
+252	| Meeting Rooms
+126	| Word Ladder II
+304	| Range Sum Query 2D - Immutable
+247	| Strobogrammatic Number II
 
 # Google
-Title | Acceptance | Difficulty | Frequency
+| # | Title | Difficulty | Frequency
 ---- | --- | --- | ---
 534|Design TinyURL|0.0%|Medium|
 388|Longest Absolute File Path|37.1%|Medium|
@@ -361,7 +349,7 @@ Title | Acceptance | Difficulty | Frequency
 731|My Calendar II|31.6%|Medium
 
 # Uber
-Title | Acceptance | Difficulty | Frequency
+| # | Title | Difficulty | Frequency
 ---- | --- | --- | ---
 534|Design TinyURL|0.0%|Medium|
 380|Insert Delete GetRandom O(1)|39.4%|Medium|
@@ -421,7 +409,7 @@ Title | Acceptance | Difficulty | Frequency
 
 
 # Bloomberg
-Title | Acceptance | Difficulty | Frequency
+| # | Title  | Difficulty | Frequency
 ---- | --- | --- | ---
 445|Add Two Numbers II|45.9%|Medium|
 138|Copy List with Random Pointer|26.1%|Medium|
@@ -495,7 +483,7 @@ Title | Acceptance | Difficulty | Frequency
 714|Best Time to Buy and Sell Stock with Transaction Fee|39.4%|Medium
 
 # Microsoft
-Title | Acceptance | Difficulty | Frequency
+| # | Title  | Difficulty | Frequency
 ---- | --- | --- | ---
 138|Copy List with Random Pointer|26.1%|Medium|
 348|Design Tic-Tac-Toe |45.8%|Medium|
@@ -593,7 +581,7 @@ Title | Acceptance | Difficulty | Frequency
 333|Largest BST Subtree |30.6%|Medium|
 
 # Amazon
-Title | Acceptance | Difficulty | Frequency
+| # | Title | Difficulty | Frequency
 ---- | --- | --- | ---
 675|Cut Off Trees for Golf Event|26.6%|Hard|
 1|Two Sum|36.1%|Easy|
@@ -677,7 +665,7 @@ Title | Acceptance | Difficulty | Frequency
 725|Split Linked List in Parts|49.6%|Medium
 
 # Linkedin
-Title | Acceptance | Difficulty | Frequency
+| # | Title | Difficulty | Frequency
 ---- | --- | --- | ---
 339|Nested List Weight Sum |62.8%|Easy|
 244|Shortest Word Distance II |39.5%|Medium|
